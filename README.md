@@ -51,3 +51,5 @@ var erpTest = require('erp-test');
 
 注意：线上就是直接使用dist打包后的文件
 
+[具体配置项参考]("https://github.com/spmjs/docs/tree/3.4/zh-cn/package.json")
+
