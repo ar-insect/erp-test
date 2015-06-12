@@ -1,55 +1,37 @@
-# erp-test [![spm version](http://spmjs.io/badge/erp-test)](http://spmjs.io/package/erp-test)
-
----
-
-
-
-## Install
-
-```
-$ spm install erp-test --save
-```
-
-## Usage
-
-```js
-var erpTest = require('erp-test');
-// use erpTest
-```
-
-## help
+## ä½¿ç”¨å¸®åŠ©
 
 `mkdir erp-test`
 
 `cd erp-test`
 
-³õÊ¼»¯ÏîÄ¿£º
+åˆå§‹åŒ–é¡¹ç›®ï¼š
 
 `spm init`
 
-°²×°ÏîÄ¿ËùĞèÒªµÄÒÀÀµ£º
+å®‰è£…é¡¹ç›®æ‰€éœ€è¦çš„ä¾èµ–ï¼š
 
 `spm install`
 
-°²×°spm×é¼ş£º
+å®‰è£…spmç»„ä»¶ï¼š
 
 `spm install arale-dialog --save`
 
-Æô¶¯±¾µØ·şÎñ£º
+æ›´å¤šç»„ä»¶è¯·åˆ°`http://spmjs.io`å»æ‰¾
+
+å¯åŠ¨æœ¬åœ°æœåŠ¡ï¼š
 
 `spm doc`
 
-ÒıÈëÑùÊ½¿ÉÒÔ£º`require('arale-dialog/src/dialog.css');`
+å¼•å…¥æ ·å¼å¯ä»¥ï¼š`require('arale-dialog/src/dialog.css');`
 
-## about build
+å…³äºæ‰“åŒ…ç»„ä»¶
 
-½øÈë×é¼şÄ¿Â¼Ö´ĞĞ£º`spm build`
+è¿›å…¥ç»„ä»¶ç›®å½•æ‰§è¡Œï¼š`spm build`
 
-Èç¹ûÉæ¼°µ½ÑùÊ½¿ÉÒÔÔÚpackage.jsonÀïÃæ¼ÓÈëÅäÖÃÏî
+å¦‚æœæ¶‰åŠåˆ°æ ·å¼å¯ä»¥åœ¨package.jsoné‡Œé¢åŠ å…¥é…ç½®é¡¹
 
-±ÈÈç£ºoutput:['src/dialog.css']
+æ¯”å¦‚ï¼šoutput:['src/dialog.css']
 
-×¢Òâ£ºÏßÉÏ¾ÍÊÇÖ±½ÓÊ¹ÓÃdist´ò°üºóµÄÎÄ¼ş
+æ³¨æ„ï¼šçº¿ä¸Šå°±æ˜¯ç›´æ¥ä½¿ç”¨distæ‰“åŒ…åçš„æ–‡ä»¶
 
-[¾ßÌåÅäÖÃÏî²Î¿¼](https://github.com/spmjs/docs/tree/3.4/zh-cn/package.json)
-
+[å…·ä½“é…ç½®é¡¹å‚è€ƒ](https://github.com/spmjs/docs/tree/3.4/zh-cn/package.json)
