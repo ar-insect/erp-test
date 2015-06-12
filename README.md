@@ -39,9 +39,9 @@ var erpTest = require('erp-test');
 
 `spm doc`
 
-引入样式可以；`require('arale-dialog/src/dialog.css');`
+引入样式可以：`require('arale-dialog/src/dialog.css');`
 
-### about build
+## about build
 
 进入组件目录执行：`spm build`
 
@@ -51,5 +51,5 @@ var erpTest = require('erp-test');
 
 注意：线上就是直接使用dist打包后的文件
 
-[具体配置项参考]("https://github.com/spmjs/docs/tree/3.4/zh-cn/package.json")
+[具体配置项参考](https://github.com/spmjs/docs/tree/3.4/zh-cn/package.json)
 
