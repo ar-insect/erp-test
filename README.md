@@ -50,8 +50,8 @@ output:['src/dialog.css']
 
 ### 注意
 
--- 如果在使用jQuery插件时候发现不能使用请修改组件包内的package.json将jquery配置为框架默认的版本1.7.2
+-如果在使用jQuery插件时候发现不能使用请修改组件包内的package.json将jquery配置为框架默认的版本1.7.2
 
--- 线上就是直接使用dist打包后的文件
+-线上就是直接使用dist打包后的文件
 
 [具体配置项参考](https://github.com/spmjs/docs/tree/3.4/zh-cn/package.json)
